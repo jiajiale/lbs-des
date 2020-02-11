@@ -1,4 +1,4 @@
-module github.com/lbs-des
+module github.com/jiajiale/lbs-des
 
 go 1.13
 
